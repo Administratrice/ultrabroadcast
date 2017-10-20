@@ -1,0 +1,9 @@
+name: UltraBroadcast
+version: 1.0
+author: Administratrice
+main: ca.administratrice.broadcast.Main
+commands:
+  broadcast:
+    description: Send a message to all players
+    permission: ultrabroadcast.use
+    aliases: [bc]
